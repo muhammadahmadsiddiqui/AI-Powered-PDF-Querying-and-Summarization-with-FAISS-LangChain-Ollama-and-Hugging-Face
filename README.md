@@ -1,0 +1,1 @@
+# AI-Powered-PDF-Querying-and-Summarization-with-FAISS-LangChain-Ollama-and-Hugging-Face
